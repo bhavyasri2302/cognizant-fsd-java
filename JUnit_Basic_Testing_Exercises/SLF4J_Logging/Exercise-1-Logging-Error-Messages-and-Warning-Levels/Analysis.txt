@@ -1,0 +1,21 @@
+Exercise 1: Logging Error Messages and Warning Levels
+
+Objective:
+To demonstrate logging of error and warning messages.
+
+Logging Levels:
+1. ERROR - Used to indicate serious problems.
+2. WARNING - Used to indicate potential issues.
+
+In real applications, SLF4J and Logback libraries are used
+for structured logging.
+
+Expected Output:
+[ERROR] This is an error message
+[WARNING] This is a warning message
+
+Benefits:
+1. Helps in debugging.
+2. Tracks application events.
+3. Identifies errors quickly.
+4. Improves maintainability.

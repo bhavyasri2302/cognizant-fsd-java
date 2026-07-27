@@ -1,0 +1,24 @@
+Arrange-Act-Assert (AAA) Pattern:
+
+1. Arrange:
+   Prepare test data and objects.
+   Example: a = 10, b = 20
+
+2. Act:
+   Execute the method being tested.
+   Example: calc.add(a, b)
+
+3. Assert:
+   Verify the expected result.
+   Example: result == 30
+
+Setup Method:
+Used before test execution to initialize resources.
+
+Teardown Method:
+Used after test execution to release resources.
+
+Expected Output:
+Setup: Calculator Created
+Test Passed
+Teardown: Resources Released
