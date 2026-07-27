@@ -1,0 +1,13 @@
+JUnit Assertions are used to verify whether the expected result matches the actual result.
+Assertions used:
+1. assertEquals() - Checks if two values are equal.
+2. assertTrue() - Checks if a condition is true.
+3. assertFalse() - Checks if a condition is false.
+4. assertNull() - Checks if an object is null.
+5. assertNotNull() - Checks if an object is not null.
+Expected Output:
+assertEquals Passed
+assertTrue Passed
+assertFalse Passed
+assertNull Passed
+assertNotNull Passed

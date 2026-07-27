@@ -1,0 +1,8 @@
+JUnit is a Java testing framework used for unit testing.
+Benefits:
+1. Automates testing.
+2. Helps find bugs early.
+3. Improves code quality.
+4. Supports assertions and test cases.
+Expected Output:
+Test Passed
